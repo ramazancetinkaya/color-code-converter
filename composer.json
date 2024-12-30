@@ -1,0 +1,39 @@
+{
+    "name": "ramazancetinkaya/color-code-converter",
+    "description": "A modern PHP library for converting color codes between RGB, HEX, and HSL color spaces.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramazan Çetinkaya",
+            "email": "ramazancetinkaya1337@protonmail.com",
+            "homepage": "https://github.com/ramazancetinkaya",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ramazancetinkaya\\": "src/"
+        }
+    },
+    "keywords": [
+        "color-conversion",
+        "hex",
+        "rgb",
+        "hsl",
+        "php",
+        "php-library",
+        "color-codes",
+        "color-library",
+        "web-development",
+        "frontend-tools"
+    ],
+    "homepage": "https://github.com/ramazancetinkaya/color-code-converter",
+    "support": {
+        "issues": "https://github.com/ramazancetinkaya/color-code-converter/issues",
+        "source": "https://github.com/ramazancetinkaya/color-code-converter"
+    }
+}
