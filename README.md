@@ -77,6 +77,7 @@ Here's how you can use the `ColorConverter` class:
 
 ```php
 <?php
+
 require 'vendor/autoload.php';
 
 use ramazancetinkaya\ColorConverter;
